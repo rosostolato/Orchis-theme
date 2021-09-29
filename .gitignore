@@ -1,3 +1,4 @@
+.vscode
 .DS_store
 .sass-cache
 *-temp.scss
